@@ -26,7 +26,7 @@
         <constructor-arg name="age" value="5" />
     </bean>
 
-    <bean id="vova" class="razilov.crowd.Emp">
+    <bean id="vova2" class="razilov.crowd.Emp">
 
     </bean>
 
