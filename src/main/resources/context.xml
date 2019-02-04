@@ -20,4 +20,8 @@
 
     </bean>
 
+    <bean id="createdDenom" class="razilov.crowd.Emp">
+
+    </bean>
+
 </beans>
