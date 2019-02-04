@@ -16,4 +16,8 @@
         <constructor-arg name="surname" value="Razilov" />
     </bean>
 
+    <bean id="den" class="razilov.crowd.Emp">
+
+    </bean>
+
 </beans>
