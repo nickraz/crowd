@@ -21,7 +21,9 @@
     </bean>
 
     <bean id="createdDenom" class="razilov.crowd.Emp">
-
+        <constructor-arg name="name" value="Sarah"/>
+        <constructor-arg name="surname" value="Koyen"/>
+        <constructor-arg name="age" value="5" />
     </bean>
 
 </beans>
